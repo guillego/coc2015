@@ -1,3 +1,7 @@
+body{
+    background-color: #F2F2F2;
+}
+
 @font-face {
     font-family: 'WebSymbolsRegular';
     src: url('websymbols/websymbols-regular-webfont.eot');
