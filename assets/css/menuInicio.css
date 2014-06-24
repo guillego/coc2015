@@ -20,7 +20,7 @@ body{
 .ca-menu li{
     width: 220px;
     height: 220px;
-    border: 5px solid #f6f6f6;
+    border: 5px solid #9ec9d3;
     overflow: hidden;
     position: relative;
     float:left;
@@ -46,13 +46,13 @@ body{
     width: 100%;
     height: 100%;
     display: block;
-    color: #333;
+    color: #fdbb90;
     position: relative;
 }
 .ca-icon{
     font-family: 'WebSymbolsRegular', cursive;
     font-size: 40px;
-    color: #f6f6f6;;
+    color: #9ec9d3;
     line-height: 60px;
     position: absolute;
     width: 100%;
@@ -76,13 +76,13 @@ body{
     margin-left: -85px;
     opacity: 0.8;
     text-align: center;
-    color: #555;
+    color: #ff7f2a;
 }
 .ca-sub{
     display: none;
 }
 .ca-menu li:hover{
-    border-color: #333;
+    border-color: #216778;
     z-index: 999;
     -webkit-transform: scale(1.1);
     -moz-transform: scale(1.1);
@@ -91,7 +91,7 @@ body{
     transform: scale(1.1);
 }
 .ca-menu li:hover .ca-icon{
-    color: #000;
+    color: #216778;
     font-size: 60px;
     text-shadow: 0px 0px 1px #000;
     -webkit-animation: moveFromBottom 300ms ease;
@@ -99,7 +99,7 @@ body{
     -ms-animation: moveFromBottom 300ms ease;
 }
 .ca-menu li:hover .ca-main{
-    color: #000;
+    color: #ff7f2a;
     -webkit-animation: moveFromBottom 500ms ease;
     -moz-animation: moveFromBottom 500ms ease;
     -ms-animation: moveFromBottom 500ms ease;
