@@ -529,6 +529,7 @@ height: 100%;
 .logo{
     width: 300px;
     vertical-align:middle;
+    position:relative;
 }
 
 .claseLogo{
