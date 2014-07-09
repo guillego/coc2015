@@ -473,7 +473,7 @@ color:#fff;
 .video-section .logo-container{
     width: 300px;
     margin: 0 auto;
-    vertical-align:text-bottom;
+    bottom:0;
 }
 
 .video-section h1{
