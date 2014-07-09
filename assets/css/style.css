@@ -533,13 +533,3 @@ height: 100%;
     padding-bottom: 30px;
 }
 
-.logo{
-    width: 300px;
-    vertical-align:middle;
-    position:relative;
-}
-
-.claseLogo{
-    position: relative;
-    bottom: 10%;
-}
