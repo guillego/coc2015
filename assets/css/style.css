@@ -527,12 +527,11 @@ height: 100%;
 }
 
 .logo{
-    height: 275px;
-    width: 495px;
-    margin-left: 30px;    
+    width: 300px;
+    margin: 0 20% 0 20%;  
 }
 
 .claseLogo{
     position: relative;
-    bottom: 20%;
+    bottom: 10%;
 }
