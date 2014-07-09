@@ -470,9 +470,8 @@ text-align:center;
 color:#fff;
 }
 
-.video-section img{
+.video-section .logo{
     width: 300px;
-    margin: 0 auto;
 
 }
 
