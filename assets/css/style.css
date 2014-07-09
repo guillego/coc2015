@@ -473,10 +473,12 @@ color:#fff;
 .video-section .logo-container{
     width: 300px;
     margin: 0 auto;
+}
+
+.logo {
     position:absolute;
     bottom:0;
 }
-
 .video-section h1{
 font-size:40px;
 font-family: 'Open Sans', sans-serif;
