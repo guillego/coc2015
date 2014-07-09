@@ -470,9 +470,9 @@ text-align:center;
 color:#fff;
 }
 
-.video-section .logo{
+.video-section .logo-container{
     width: 300px;
-
+    margin: 0 auto;
 }
 
 .video-section h1{
