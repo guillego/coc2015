@@ -69,7 +69,7 @@ line-height: 52px;
 
 .type p{
 	font-family:'Open Sans';
-    font-weight: 800;
+    font-weight: 800 !important;
 	font-size: 29px;
 	text-transform: uppercase;
 	color: white;
@@ -145,7 +145,6 @@ line-height: 52px;
 }
 
 .content{
-	width: 1170px;
 }
 
 .login_c{
