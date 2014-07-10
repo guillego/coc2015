@@ -519,7 +519,7 @@ height: 100%;
 
 .content{
     text-align: center;
-    width: 1170px !important;
+    width: 1170px;
 }
 
 #title {
