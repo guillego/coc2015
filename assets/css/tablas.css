@@ -69,7 +69,7 @@ line-height: 52px;
 
 .type p{
 	font-family:'Open Sans';
-    font-weight: 800 !important;
+    font-weight: 800;
 	font-size: 29px;
 	text-transform: uppercase;
 	color: white;
